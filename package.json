@@ -1,0 +1,35 @@
+{
+  "name": "responsivegridlayout",
+  "version": "1.0.0",
+  "description": "Creates responsive grid layouts for web applications, supporting various devices.",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/badgerbr1gade/responsivegridlayout"
+  },
+  "author": "badgerbr1gade",
+  "license": "MIT",
+  "dependencies": {
+    "responsivegridlayout": "1.0.0",
+    "machinelearningadapter": "1.0.0",
+    "jsonwebtoken": "1.0.0",
+    "async": "1.0.0",
+    "bluebird": "1.0.0",
+    "babel-core": "1.0.0",
+    "axios": "1.0.0",
+    "dotenv": "1.0.0",
+    "ethers": "1.0.0",
+    "firebase": "1.0.0",
+    "ipfs-http-client": "1.0.0",
+    "webpack": "1.0.0",
+    "fs-extra": "1.0.0",
+    "jquery": "1.0.0",
+    "supertest": "1.0.0",
+    "request": "1.0.0",
+    "ganache-cli": "1.0.0",
+    "ethereumjs-util": "1.0.0"
+  }
+}
